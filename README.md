@@ -39,7 +39,7 @@ You can use this application by sending requests through Postman**
 * click "Fix" and select "web-security:war exploded"
 * and delete any new link that appeared after the "/"
 * This is what your link should look like http://localhost:8080/
-8. Press the Rune button or the Shift + F10 hotkey combination.🧑🏼‍💻
+8. Press the Run button or the Shift + F10 hotkey combination.🧑🏼‍💻
 9. You can use email "alice@i.ua" and password "1234" fot authentication or register new user.
 10. You can test endpoints in Postman.🕹️
 
